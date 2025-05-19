@@ -187,6 +187,10 @@ button {
   padding: 14px;
 }
 
+.category.active {
+  background: #7b6add !important;
+}
+
 .content .categories .category img {
   padding: 5px 15px;
   float: right;
